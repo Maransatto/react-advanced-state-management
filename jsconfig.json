@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "checkJs": true,
     "jsx": "react",
 
     // these are just imports configuratoins
